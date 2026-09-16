@@ -1,3 +1,9 @@
+"""
+Gestor de Tarefas em Python com Tkinter
+by Daniel Luis
+github.com/danieldluis
+"""
+
 # gestor_tarefas.py
 # fiz este programa pra praticar tkinter
 # basicamente é um to-do list com prioridades
