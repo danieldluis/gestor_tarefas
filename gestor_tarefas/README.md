@@ -4,8 +4,8 @@ Um to-do list simples feito em Tkinter.
 
 ## O que faz
 
-- Adiciona tarefas com nome e prioridade (1 a 10)
-- Ordena automaticamente por prioridade
+- Adicionar tarefas com nome e prioridade (1 a 10)
+- Ordenar automaticamente por prioridade
 - Remover uma tarefa ou limpar tudo
 - Contador de tarefas no rodapé
 
