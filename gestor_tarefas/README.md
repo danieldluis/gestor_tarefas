@@ -1,6 +1,6 @@
 # 📋 Gestor de Tarefas (To-Do List)
 
-Um to-do list simples feito em Tkinter.
+Um to-do list simples feito em Tkinter
 
 ## O que faz
 
